@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.71bc7f13.chunk.css",
-    "main.js": "./static/js/main.f08f0552.chunk.js",
-    "main.js.map": "./static/js/main.f08f0552.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.0c7df7e7.js",
-    "runtime-main.js.map": "./static/js/runtime-main.0c7df7e7.js.map",
-    "static/css/2.8a8d9fc8.chunk.css": "./static/css/2.8a8d9fc8.chunk.css",
-    "static/js/2.1c70f8ff.chunk.js": "./static/js/2.1c70f8ff.chunk.js",
-    "static/js/2.1c70f8ff.chunk.js.map": "./static/js/2.1c70f8ff.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.d3a03210d7c33b34fc8d01dcb959ba89.js": "./precache-manifest.d3a03210d7c33b34fc8d01dcb959ba89.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.8a8d9fc8.chunk.css.map": "./static/css/2.8a8d9fc8.chunk.css.map",
-    "static/css/main.71bc7f13.chunk.css.map": "./static/css/main.71bc7f13.chunk.css.map",
-    "static/js/2.1c70f8ff.chunk.js.LICENSE.txt": "./static/js/2.1c70f8ff.chunk.js.LICENSE.txt",
-    "static/media/bg1.png": "./static/media/bg1.adc1adf9.png",
-    "static/media/logo.png": "./static/media/logo.d425b9ce.png",
-    "static/media/pawn.png": "./static/media/pawn.f177834f.png",
-    "static/media/styles.css": "./static/media/revicons.2feb69cc.eot"
+    "main.css": "/Magnum/static/css/main.71bc7f13.chunk.css",
+    "main.js": "/Magnum/static/js/main.d5976a0e.chunk.js",
+    "main.js.map": "/Magnum/static/js/main.d5976a0e.chunk.js.map",
+    "runtime-main.js": "/Magnum/static/js/runtime-main.8a151371.js",
+    "runtime-main.js.map": "/Magnum/static/js/runtime-main.8a151371.js.map",
+    "static/css/2.41f0d0b8.chunk.css": "/Magnum/static/css/2.41f0d0b8.chunk.css",
+    "static/js/2.1c70f8ff.chunk.js": "/Magnum/static/js/2.1c70f8ff.chunk.js",
+    "static/js/2.1c70f8ff.chunk.js.map": "/Magnum/static/js/2.1c70f8ff.chunk.js.map",
+    "index.html": "/Magnum/index.html",
+    "precache-manifest.f23b8fa2de12b1d258c31847b339aa25.js": "/Magnum/precache-manifest.f23b8fa2de12b1d258c31847b339aa25.js",
+    "service-worker.js": "/Magnum/service-worker.js",
+    "static/css/2.41f0d0b8.chunk.css.map": "/Magnum/static/css/2.41f0d0b8.chunk.css.map",
+    "static/css/main.71bc7f13.chunk.css.map": "/Magnum/static/css/main.71bc7f13.chunk.css.map",
+    "static/js/2.1c70f8ff.chunk.js.LICENSE.txt": "/Magnum/static/js/2.1c70f8ff.chunk.js.LICENSE.txt",
+    "static/media/bg1.png": "/Magnum/static/media/bg1.adc1adf9.png",
+    "static/media/logo.png": "/Magnum/static/media/logo.d425b9ce.png",
+    "static/media/pawn.png": "/Magnum/static/media/pawn.f177834f.png",
+    "static/media/styles.css": "/Magnum/static/media/revicons.2feb69cc.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c7df7e7.js",
-    "static/css/2.8a8d9fc8.chunk.css",
+    "static/js/runtime-main.8a151371.js",
+    "static/css/2.41f0d0b8.chunk.css",
     "static/js/2.1c70f8ff.chunk.js",
     "static/css/main.71bc7f13.chunk.css",
-    "static/js/main.f08f0552.chunk.js"
+    "static/js/main.d5976a0e.chunk.js"
   ]
 }
